@@ -1,0 +1,1 @@
+This repository contains a variety of practical exercises focused on array manipulation in Python. From basic operations to more complex challenges, this collection represents my personal journey in mastering array data structures in Python. Useful for reviewing concepts and exploring new techniques, this repository reflects my ongoing dedication to honing my Python skills.
